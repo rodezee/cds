@@ -13,3 +13,6 @@ https://andreaskalcker.com/nl/
 
 # how to make NaClO2
 https://sciencing.com/experiments-salt-vinegar-8322822.html
+
+# on big scale
+https://www.konax.com/nl/blog/verschillende-methodes-om-chloordioxide-aan-te-maken
