@@ -22,3 +22,6 @@ https://www.mmsinfo.org/
 
 # uitleg en history NL
 https://www.lenntech.nl/processen/desinfectie/chemisch/desinfectiemiddelen-chloordioxide.htm
+
+# maak natrium chloriet NaCl2
+https://neth.lamscience.com/how-make-sodium-chlorite
