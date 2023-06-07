@@ -19,3 +19,6 @@ https://www.konax.com/nl/blog/verschillende-methodes-om-chloordioxide-aan-te-mak
 
 # website allround info
 https://www.mmsinfo.org/
+
+# uitleg en history NL
+https://www.lenntech.nl/processen/desinfectie/chemisch/desinfectiemiddelen-chloordioxide.htm
