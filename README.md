@@ -7,6 +7,7 @@ https://www.clo2.nl/index.php/nl-nl/334-sept-2021-chloordioxide-een-dodelijk-gif
 
 # store
 https://safrax.com/
+http://shop2.pure0515.cafe24.com/product/chlorine-dioxide-tablets-1-packs-175-190-tablets/67/category/46/display/1/#none
 
 # invertor of CDS
 https://andreaskalcker.com/nl/
