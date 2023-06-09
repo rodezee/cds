@@ -12,9 +12,6 @@ http://shop2.pure0515.cafe24.com/product/chlorine-dioxide-tablets-1-packs-175-19
 # invertor of CDS
 https://andreaskalcker.com/nl/
 
-# how to make NaClO2
-https://sciencing.com/experiments-salt-vinegar-8322822.html
-
 # on big scale
 https://www.konax.com/nl/blog/verschillende-methodes-om-chloordioxide-aan-te-maken
 
@@ -24,5 +21,8 @@ https://www.mmsinfo.org/
 # uitleg en history NL
 https://www.lenntech.nl/processen/desinfectie/chemisch/desinfectiemiddelen-chloordioxide.htm
 
-# maak natrium chloriet NaCl2
+# how to make NaClO2
+https://sciencing.com/experiments-salt-vinegar-8322822.html
+
+# maak natrium chloriet NaClO2
 https://neth.lamscience.com/how-make-sodium-chlorite
